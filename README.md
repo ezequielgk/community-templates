@@ -1,5 +1,9 @@
 # 🎨 Noctalia Community Templates (v5++)
 
+<p align="center">
+  <img src="https://assets.noctalia.dev/noctalia-logo.svg?v=2" alt="Noctalia Logo" style="width: 192px" />
+</p>
+
 Welcome to the **Noctalia Community Templates** repository!
 This is a centralized, community-driven hub for application theme templates designed to seamlessly match color palettes within the **Noctalia Shell (v5)** ecosystem. 
 
