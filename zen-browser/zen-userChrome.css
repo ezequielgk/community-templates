@@ -327,3 +327,15 @@ menu:where([_moz-menuactive="true"]:not([disabled="true"])) :is(.menu-text, .men
 menuitem:where([_moz-menuactive="true"]:not([disabled="true"])) :is(.menu-text, .menu-iconic-text, .menu-accel) {
   color: var(--base) !important;
 }
+
+toolbarbutton.zen-glance-sidebar-close.toolbarbutton-1,
+toolbarbutton.zen-glance-sidebar-open.toolbarbutton-1,
+toolbarbutton.zen-glance-sidebar-split.toolbarbutton-1 {
+	background-color: var(--overlay) !important;
+}
+
+toolbarbutton.zen-glance-sidebar-close.toolbarbutton-1:hover,
+toolbarbutton.zen-glance-sidebar-open.toolbarbutton-1:hover,
+toolbarbutton.zen-glance-sidebar-split.toolbarbutton-1:hover {
+	background-color: color-mix(in srgb, var(--muted) 90%, black) !important;
+}
