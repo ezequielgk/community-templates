@@ -130,7 +130,7 @@ toolbarbutton#tabs-newtab-button {
 }
 
 .urlbarView-favicon {
-  background-color: var(--base) !important;
+  background-color: transparent !important;
 }
 
 #urlbar-results {
