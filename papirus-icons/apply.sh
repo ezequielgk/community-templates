@@ -2,7 +2,7 @@
 set -euo pipefail
 
 {
-  COLOR_FILE="$HOME/.cache/noctalia/papirus-icons/colors"
+  COLOR_FILE="$HOME/.cache/noctalia/community-templates/papirus-icons/colors"
   [[ -f "$COLOR_FILE" ]] || exit 0
 
   # 1. Read the file instantly into RAM
