@@ -56,4 +56,4 @@ set -euo pipefail
   # 6. Apply icons instantly
   [[ -n "$closest" ]] && "$HOME/.config/noctalia/templates/papirus-folders" -C "$closest" || :
 
-} >/dev/null 2>&1 </dev/null
+}
